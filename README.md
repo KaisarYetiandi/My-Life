@@ -16,7 +16,4 @@ INTERESTED IN LEARNING THE WORLD OF HACKING FROM 2016<br><br>IM LIKES TO CREATE 
 <br clear="both">
 
 <img src="https://raw.github.com/KaisarYetiandi/My-Life/output/snake.svg" alt="Snake animation" />
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
 
