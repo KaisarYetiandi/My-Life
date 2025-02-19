@@ -12,7 +12,7 @@ INTERESTED IN LEARNING THE WORLD OF HACKING FROM 2016<br><br>IM LIKES TO CREATE 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KaisarYetiandi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐍 Snake
+## 
 <br clear="both">
 
 <img src="https://raw.github.com/KaisarYetiandi/My-Life/output/snake.svg" alt="Snake animation" />
